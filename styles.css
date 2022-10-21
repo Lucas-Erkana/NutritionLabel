@@ -22,7 +22,7 @@
     margin: -4px 0;
     letter-spacing: 0.15px;
   }
-  
+
   p {
     margin: 0;
   }
@@ -58,4 +58,7 @@
   }
   .md{
     height: 5px;
+  }
+  .indent{
+    margin-left: 1em;
   }
